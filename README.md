@@ -12,7 +12,6 @@ A secure, production-ready backend API designed for managing user-specific conta
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
 
 ---
 
